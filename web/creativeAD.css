@@ -320,7 +320,7 @@ form:hover .fa{
 
     .first-content{
         margin-top: 40px;
-        gap: 5px;
+        gap: 0;
     }
 
     .col {
